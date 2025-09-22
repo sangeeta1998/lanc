@@ -1,0 +1,12 @@
+/home/ubuntu/lanc/trust-monitor-demo/target/release/deps/libwiggle-d3e6b7accf8fdcfa.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/borrow.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/error.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/guest_type.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/region.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/wasmtime.rs
+
+/home/ubuntu/lanc/trust-monitor-demo/target/release/deps/libwiggle-d3e6b7accf8fdcfa.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/borrow.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/error.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/guest_type.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/region.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/wasmtime.rs
+
+/home/ubuntu/lanc/trust-monitor-demo/target/release/deps/wiggle-d3e6b7accf8fdcfa.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/borrow.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/error.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/guest_type.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/region.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/wasmtime.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/borrow.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/error.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/guest_type.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/region.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wiggle-15.0.1/src/wasmtime.rs:

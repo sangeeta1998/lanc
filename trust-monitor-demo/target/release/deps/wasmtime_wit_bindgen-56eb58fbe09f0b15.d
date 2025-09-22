@@ -1,0 +1,10 @@
+/home/ubuntu/lanc/trust-monitor-demo/target/release/deps/libwasmtime_wit_bindgen-56eb58fbe09f0b15.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/rust.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/source.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/types.rs
+
+/home/ubuntu/lanc/trust-monitor-demo/target/release/deps/libwasmtime_wit_bindgen-56eb58fbe09f0b15.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/rust.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/source.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/types.rs
+
+/home/ubuntu/lanc/trust-monitor-demo/target/release/deps/wasmtime_wit_bindgen-56eb58fbe09f0b15.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/rust.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/source.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/types.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/rust.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/source.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-wit-bindgen-15.0.1/src/types.rs:
