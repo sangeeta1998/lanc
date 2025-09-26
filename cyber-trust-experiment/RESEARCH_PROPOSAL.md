@@ -1,5 +1,4 @@
-# Research Proposal: Securing Compromised Systems at Ultra-Large Scale
-## SCULI 
+
 
 ### 🎯 **Research Question & Problem Scoping**
 

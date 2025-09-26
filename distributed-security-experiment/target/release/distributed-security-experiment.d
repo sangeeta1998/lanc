@@ -1,0 +1,1 @@
+/home/ubuntu/lanc/distributed-security-experiment/target/release/distributed-security-experiment: /home/ubuntu/lanc/distributed-security-experiment/src/main.rs /home/ubuntu/lanc/distributed-security-experiment/static/dashboard.html
