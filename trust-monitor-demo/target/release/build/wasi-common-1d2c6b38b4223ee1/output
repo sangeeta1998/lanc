@@ -1,3 +1,0 @@
-cargo:wasi=/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasi-common-15.0.1/WASI
-cargo:rustc-env=WASI_ROOT=/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasi-common-15.0.1/WASI
-cargo:rerun-if-changed=build.rs
