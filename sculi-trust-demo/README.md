@@ -28,45 +28,42 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │                    TRUST MONITORING ORCHESTRATOR                │
 │                                                                 │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐            │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐              │
 │  │ Predictability│  │ Composition │  │ Continual   │            │
-│  │ Engine      │  │ Engine      │  │ Assurance   │            │
-│  │             │  │             │  │ Engine      │            │
-│  │ • Bayesian  │  │ • Graph     │  │ • Runtime   │            │
-│  │   Models    │  │   Propagation│  │   Scoring   │            │
+│  │ Engine      │  │ Engine      │  │ Assurance   │              │
+│  │             │  │             │  │ Engine      │              │
+│  │ • Bayesian  │  │ • Graph     │  │ • Runtime   │              │
+│  │   Models    │  │   Propagation│  │   Scoring   │             │
 │  │ • Forecasting│  │ • Aggregation│  │ • Anomaly   │            │
 │  │ • Confidence│  │ • Dependencies│  │   Detection │            │
-│  └─────────────┘  └─────────────┘  └─────────────┘            │
-│                                │                               │
-│                                ▼                               │
-│  ┌─────────────────────────────────────────────────────────────┐ │
-│  │              INCIDENT RESPONSE ORCHESTRATOR                │ │
-│  │                                                             │ │
+│  └─────────────┘  └─────────────┘  └─────────────┘              │
+│                                │                                │
+│                                ▼                                │
+│  ┌─────────────────────────────────────────────────────────────┐│
+│  │              INCIDENT RESPONSE ORCHESTRATOR                 │
+│  │                                                             │
 │  │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │ │
 │  │  │ Automated   │  │ Human       │  │ Recovery    │        │ │
 │  │  │ Isolation   │  │ Escalation  │  │ Orchestration│       │ │
 │  │  └─────────────┘  └─────────────┘  └─────────────┘        │ │
-│  └─────────────────────────────────────────────────────────────┘ │
+│  └─────────────────────────────────────────────────────────────┘ 
 └─────────────────────────────────────────────────────────────────┘
                                 │
                                 ▼
 ┌─────────────────────────────────────────────────────────────────┐
-│                    DISTRIBUTED SYSTEM LAYER                 │
+│                    DISTRIBUTED SYSTEM LAYER                     │
 │                                                                 │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐            │
-│  │ WebAssembly │  │ Containers  │  │ Legacy      │            │
-│  │ Services    │  │ (Docker)    │  │ Systems     │            │
-│  │             │  │             │  │             │            │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐              │
+│  │ WebAssembly │  │ Containers  │  │ Legacy      │              │
+│  │ Services    │  │ (Docker)    │  │ Systems     │              │
+│  │             │  │             │  │             │              │
 │  │ • Rust      │  │ • Microservices│  │ • Legacy APIs│          │
-│  │ • Wasm      │  │ • Databases │  │ • Legacy    │            │
-│  │ • Portable  │  │ • Caches    │  │   Protocols │            │
-│  └─────────────┘  └─────────────┘  └─────────────┘            │
+│  │ • Wasm      │  │ • Databases │  │ • Legacy    │              │
+│  │ • Portable  │  │ • Caches    │  │   Protocols │              │
+│  └─────────────┘  └─────────────┘  └─────────────┘              │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## 🚀 **Quick Start Demo**
 
 ### **1. Build and Run**
 ```bash
@@ -87,42 +84,18 @@ cd /home/ubuntu/lanc/sculi-trust-demo
 3. **Automated Response**: Isolation and escalation
 4. **Recovery Process**: Trust restoration and system healing
 
----
 
-## 🎤 **Interview Presentation Flow**
-
-### **Opening (2 minutes)**
-> "I'll demonstrate how to monitor and assess trust in large distributed systems by addressing SCULI's four research objectives through a working prototype."
-
-### **Problem Scoping (3 minutes)**
 > "At ultra-large scale, we face four critical challenges:
 > 1. **Predictability**: Forecasting security state changes
 > 2. **Composition**: Trust across heterogeneous systems  
 > 3. **Continual Assurance**: Runtime security without complete specifications
 > 4. **Incident Response**: Orchestrating response across divergent systems"
 
-### **Technical Solution (5 minutes)**
-> "My approach uses multi-layer trust assessment:
+
 > - **Node-level**: Attestation, integrity, anomaly detection
 > - **Communication-level**: Encryption, provenance, flow validation
 > - **System-level**: Graph-based trust propagation
 > - **Runtime scoring**: Bayesian updates with behavioral analysis"
-
-### **Live Demo (8 minutes)**
-1. **Show the system**: Web dashboard with real-time trust scores
-2. **Simulate incidents**: Trigger trust degradation scenarios
-3. **Demonstrate response**: Automated isolation and escalation
-4. **Show recovery**: Trust restoration and system healing
-5. **Explain metrics**: Confidence intervals, propagation algorithms
-
-### **SCULI Alignment (2 minutes)**
-> "This directly addresses SCULI's objectives:
-> - **Predictability**: Bayesian models with confidence intervals
-> - **Composition**: Graph-based trust propagation across services
-> - **Continual Assurance**: Dynamic scoring based on runtime behavior
-> - **Incident Response**: Trust-driven automation with human oversight"
-
----
 
 ## 🔬 **Technical Implementation**
 
@@ -155,39 +128,5 @@ cd /home/ubuntu/lanc/sculi-trust-demo
 - **System Resilience**: >95% functionality under attack
 - **Compositional Accuracy**: >85% accuracy in system-of-systems trust
 
-### **Research Contributions**
-- **Theoretical**: Novel trust propagation algorithms for distributed systems
-- **Practical**: Production-ready trust monitoring system
-- **Methodological**: Standardized metrics for trust assessment at scale
 
----
-
-## 🎯 **Interview Success Factors**
-
-### **What Makes This Solution Strong**
-1. **Complete SCULI Alignment**: Directly addresses all four research objectives
-2. **Working Prototype**: Fully functional system with real-time demo
-3. **Technical Depth**: Rust, WebAssembly, graph theory, Bayesian methods
-4. **Innovation**: Novel multi-layer trust assessment approach
-5. **Practical Value**: Ready for immediate deployment at scale
-
-### **Key Talking Points**
-- **Problem Understanding**: Clear identification of ultra-large scale challenges
-- **Technical Innovation**: Multi-layer trust assessment with graph propagation
-- **Mathematical Rigor**: Bayesian methods, confidence intervals, optimization
-- **Practical Implementation**: Working prototype with real-time monitoring
-- **SCULI Alignment**: Direct contribution to all four research objectives
-
----
-
-## 🚀 **Ready for Interview**
-
-This comprehensive solution demonstrates:
-- **Clear problem scoping** for ultra-large scale trust monitoring
-- **Technical expertise** with production-ready implementation
-- **Innovation** through novel trust assessment approaches
-- **Mathematical rigor** with Bayesian methods and graph theory
-- **Practical value** with working prototype and real-time demo
-
-**You are ready to impress SCULI with a memorable, technical, and innovative solution!** 🎯
 
