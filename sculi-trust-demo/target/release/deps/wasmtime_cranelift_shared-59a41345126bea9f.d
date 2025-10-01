@@ -1,0 +1,10 @@
+/home/ubuntu/lanc/sculi-trust-demo/target/release/deps/libwasmtime_cranelift_shared-59a41345126bea9f.rmeta: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/isa_builder.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/obj.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/compiled_function.rs
+
+/home/ubuntu/lanc/sculi-trust-demo/target/release/deps/libwasmtime_cranelift_shared-59a41345126bea9f.rlib: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/isa_builder.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/obj.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/compiled_function.rs
+
+/home/ubuntu/lanc/sculi-trust-demo/target/release/deps/wasmtime_cranelift_shared-59a41345126bea9f.d: /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/lib.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/isa_builder.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/obj.rs /home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/compiled_function.rs
+
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/lib.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/isa_builder.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/obj.rs:
+/home/ubuntu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmtime-cranelift-shared-15.0.1/src/compiled_function.rs:

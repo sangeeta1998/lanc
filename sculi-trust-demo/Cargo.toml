@@ -1,0 +1,26 @@
+[package]
+name = "sculi-trust-demo"
+version = "0.1.0"
+edition = "2021"
+authors = ["SCULI Trust Demo Team"]
+description = "Ultra-large scale distributed system trust monitoring for SCULI research objectives"
+license = "MIT"
+
+[[bin]]
+name = "trust-monitor"
+path = "src/main.rs"
+
+[dependencies]
+tokio = { version = "1.0", features = ["full"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+chrono = { version = "0.4", features = ["serde"] }
+warp = "0.3"
+uuid = { version = "1.0", features = ["v4", "serde"] }
+petgraph = "0.6"
+futures = "0.3"
+tokio-stream = "0.1"
+wasmtime = "15.0"
+wasmtime-wasi = "15.0"
+wasi-common = "0.1"
+

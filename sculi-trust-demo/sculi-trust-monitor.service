@@ -1,0 +1,15 @@
+[Unit]
+Description=SCULI Trust Monitoring System
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/lanc/sculi-trust-demo
+ExecStart=/home/ubuntu/lanc/sculi-trust-demo/target/release/trust-monitor
+Restart=always
+RestartSec=5
+Environment=RUST_LOG=info
+
+[Install]
+WantedBy=multi-user.target
